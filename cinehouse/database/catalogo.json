@@ -1,0 +1,25 @@
+[
+    {
+        "codigo": 1,
+        "anoDeLancamento": 2022,
+        "titulo":"Top Gun",
+        "atores":"Tom Cruize",
+        "duracao": 131,
+        "emCartaz": true
+    },
+    {
+        "codigo": 2,
+        "anoDeLancamento": 2009,
+        "titulo":"Avatar",
+        "atores":["Zoe Saldania", "Sam", "michelle Rodrigues"],
+        "duracao": 160,
+        "emCartaz": false
+    },
+    {   "codigo": 3,
+        "anoDeLancamento": 2021,
+        "titulo":"Done",
+        "atores":"Zandaya",
+        "duracao": 245,
+        "emCartaz": false
+    }
+]
